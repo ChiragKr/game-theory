@@ -1,0 +1,3 @@
+Often the function is deterministic, that is, for a given time interval only one future state follows 
+from the current state.[1][2] However, some systems are STOCHASTIC, in that random events also affect
+the evolution of the state variables.

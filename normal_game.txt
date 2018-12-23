@@ -1,0 +1,61 @@
+computing nash equilibrium
+(9, 8)  (3, 0)  (4, 2)  (1, 1)  (0, 2)  
+(3, 6)  (9, 3)  (8, 5)  (3, 8)  (9, 6)  
+(8, 9)  (4, 7)  (5, 3)  (4, 4)  (6, 5)  
+(1, 7)  (5, 8)  (9, 4)  (1, 2)  (3, 3)  
+(1, 7)  (8, 8)  (0, 9)  (0, 5)  (9, 3)  
+best-response of 1 when 2 plays j=0 is 0
+best-response of 2 when 1 plays i=0 is 0
+(9, 8) is a Nash equilibrium
+best-response of 1 when 2 plays j=1 is 1
+best-response of 1 when 2 plays j=2 is 3
+best-response of 1 when 2 plays j=3 is 2
+best-response of 1 when 2 plays j=4 is 1
+best-response of 1 when 2 plays j=0 is 0
+best-response of 1 when 2 plays j=1 is 1
+best-response of 2 when 1 plays i=1 is 3
+best-response of 1 when 2 plays j=2 is 3
+best-response of 1 when 2 plays j=3 is 2
+best-response of 1 when 2 plays j=4 is 1
+best-response of 2 when 1 plays i=1 is 3
+best-response of 1 when 2 plays j=0 is 0
+best-response of 1 when 2 plays j=1 is 1
+best-response of 1 when 2 plays j=2 is 3
+best-response of 1 when 2 plays j=3 is 2
+best-response of 2 when 1 plays i=2 is 0
+best-response of 1 when 2 plays j=4 is 1
+best-response of 1 when 2 plays j=0 is 0
+best-response of 1 when 2 plays j=1 is 1
+best-response of 1 when 2 plays j=2 is 3
+best-response of 2 when 1 plays i=3 is 1
+best-response of 1 when 2 plays j=3 is 2
+best-response of 1 when 2 plays j=4 is 1
+best-response of 1 when 2 plays j=0 is 0
+best-response of 1 when 2 plays j=1 is 1
+best-response of 1 when 2 plays j=2 is 3
+best-response of 1 when 2 plays j=3 is 2
+best-response of 1 when 2 plays j=4 is 1
+(9,8)
+best-response of 1 when 2 plays j=4 is 1
+best-response of 1 when 2 plays j=4 is 1
+best-response of 2 when 1 plays i=4 is 2
+best-response of 1 when 2 plays j=2 is 3
+best-response of 1 when 2 plays j=2 is 3
+best-response of 2 when 1 plays i=1 is 3
+best-response of 1 when 2 plays j=3 is 2
+best-response of 1 when 2 plays j=3 is 2
+best-response of 2 when 1 plays i=3 is 1
+best-response of 1 when 2 plays j=1 is 1
+best-response of 1 when 2 plays j=1 is 1
+best-response of 2 when 1 plays i=2 is 0
+best-response of 1 when 2 plays j=0 is 0
+best-response of 1 when 2 plays j=0 is 0
+best-response of 2 when 1 plays i=1 is 3
+best-response of 1 when 2 plays j=3 is 2
+best-response of 1 when 2 plays j=3 is 2
+best-response of 2 when 1 plays i=0 is 0
+best-response of 1 when 2 plays j=0 is 0
+best-response of 1 when 2 plays j=0 is 0
+best-response of 2 when 1 plays i=2 is 0
+best-response of 1 when 2 plays j=0 is 0
+best-response of 2 when 1 plays i=0 is 0
